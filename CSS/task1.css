@@ -1,0 +1,42 @@
+.one{
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    opacity: 1;
+    margin: auto;
+    text-align: center;
+    width: 20%;
+ 
+}
+.tow{background-color: orange;
+width: 200px;
+height: 200px;
+opacity: 0.75;
+margin: auto;
+text-align: center;
+width: 20%;
+border: 10px;
+}
+
+.three{
+    background-color: orange;
+        width: 200px;
+        height: 200px;
+        opacity: 0.50;
+        margin: auto;
+        text-align: center;
+        width: 20%;
+        border: 10px;
+
+}
+.four{
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    opacity: 0.25;
+    margin: auto;
+    text-align: center;
+    width: 20%;
+    border: 10px;
+}
+

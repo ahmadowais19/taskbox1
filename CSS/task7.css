@@ -1,0 +1,29 @@
+.shadow1{
+    background-color: orange;
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 10px 10px 15px;
+}
+
+.shadow2{
+    background-color: orange;
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: inset 5px 5px 10px;
+}
+
+.shadow3{
+    background-color: orange;
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    border-radius: 15px;
+   box-shadow: 5px 5px 30px rgb(140, 35, 54);
+}

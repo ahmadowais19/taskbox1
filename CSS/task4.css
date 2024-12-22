@@ -1,0 +1,38 @@
+.one{
+    background-color: aliceblue;
+    width: 150px;
+    padding: 10px;
+    margin: auto;
+    border: solid blue;
+    text-align: center;
+}
+
+.tow{
+    background-color: aliceblue;
+    width: 150px;
+    padding: 10px;
+    margin: auto;
+    outline: solid red;
+    text-align: center;
+}
+
+.three{
+    background-color: aliceblue;
+    width: 150px;
+    padding: 10px;
+    margin: auto;
+    border: solid blue;
+    outline: dashed red;
+    text-align: center;
+}
+
+.four{
+    background-color: aliceblue;
+    width: 150px;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid green ;
+    outline: solid orange;
+    outline-offset: 10px;
+   text-align: center;
+}

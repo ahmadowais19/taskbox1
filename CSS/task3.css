@@ -1,0 +1,69 @@
+.one{
+    background-color: aliceblue;
+    width: 200px;
+    padding: 10px;
+    margin: auto;
+    border: solid black;
+    text-align: center;
+}
+
+.tow{
+    background-color: aliceblue;
+    width: 200px;
+    padding: 10px;
+    margin: auto;
+    border: dashed red;
+    text-align: center;
+}
+
+.three{
+    background-color: aliceblue;
+    width: 200px;
+    padding: 10px;
+    margin: auto;
+    border: dotted blue;
+    text-align: center;
+}
+
+.four{
+    background-color: aliceblue;
+    width: 200px;
+    padding: 10px;
+    margin: auto;
+    border: double purple;
+    text-align: center;
+}
+
+.five{
+    background-color: aliceblue;
+    width: 200px;
+    padding: 10px;
+    margin: auto;
+    border: groove fuchsia;
+    text-align: center;
+}
+
+.six{background-color: aliceblue;
+width: 200px;
+padding: 10px;
+margin: auto;
+border: ridge greenyellow;
+text-align: center;
+}
+.seven{
+    background-color: aliceblue;
+    width: 200px;
+    padding: 10px;
+    margin: auto;
+    border: inset yellow;
+    text-align: center;
+}
+
+.eight{
+    background-color: aliceblue;
+    width: 200px;
+    padding: 10px;
+    margin: auto;
+    border: outset brown;
+    text-align: center;
+}

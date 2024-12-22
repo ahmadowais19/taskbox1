@@ -1,0 +1,9 @@
+div{
+    background-image: rul("../image.jpg");
+   height: 400px;
+   width: 500px;
+    margin: auto;
+    border: 1px solid ;
+    overflow: auto;
+
+}

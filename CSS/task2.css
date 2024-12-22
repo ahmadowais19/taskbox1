@@ -1,0 +1,36 @@
+.one{
+   background-color: grey;
+   width: 200px;
+   height: 200px;
+   margin: auto;
+   border: 1px solid ;
+   overflow: visible;
+}
+
+.tow{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border: 1px solid ;
+    overflow: hidden;
+}
+.three{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border: 1px solid ;
+    overflow: scroll;
+
+}
+.four{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border: 1px solid ;
+    overflow: auto;
+
+
+}

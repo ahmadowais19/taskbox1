@@ -1,0 +1,38 @@
+div{
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    height: 60px;
+    position: absolute;
+}
+
+
+
+
+
+.one{
+    background-color: white;
+    width: 900px;
+   border: 1px solid black;
+  position: relative;
+  top: 32px;
+  left: 104px;
+}
+
+.tow{
+    background-color: rgba(128, 227, 128, 0.952);
+    padding: 5px;
+    height: 100px;
+    width: 400px;
+    position: fixed ;
+    top: 35px;
+    left: 276px;
+    z-index: 20px;
+   
+}
+.three{
+    background-color: blue;
+    width: 600px;
+    position: absolute;
+    left: 125px
+}

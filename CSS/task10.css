@@ -1,0 +1,33 @@
+div{
+    color: wheat;
+    width: 100px;
+    height: 100px;
+}
+
+.one{
+    background-color: brown;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.tow{
+    background-color: blue;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+
+}
+.three{
+    background-color: yellow;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+
+}
+.four{
+    background-color: green;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
